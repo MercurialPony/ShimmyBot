@@ -1,0 +1,29 @@
+{
+	"version": "1.1.1",
+	"author": "Melonslise",
+	"anotherPlace": {
+		"updateInterval": 2000,
+		"timeout": 30000
+	},
+	"discord": {
+		"owner": "245197038231355393",
+		"playlist": "PLfMwXPrNQTUDPuw0cJGrKylmbZSdFGg57",
+		"deviantart": {
+			"folder": "FFD6F2BD-2426-38EB-822F-B661106E3255",
+			"username": "melonslise"
+		},
+		"emojiChance": 0.2,
+		"messageDelay": 1000,
+		"cooldowns": {
+			"connectMessage": 180000,
+			"h": 1200000,
+			"track": 600000,
+			"art": 600000,
+			"copypasta": 1800000,
+			"alert": 30000
+		}
+	},
+	"gpt2": {
+		"model": "345M"
+	}
+}
