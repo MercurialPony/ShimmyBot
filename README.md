@@ -1,5 +1,5 @@
 ## About
-Shimmy is a unique discord bot that can do a few neat things such as watching the pixel canvas at http://skelux.net/place.php, sharing your favorite youtube videos, deviantart pieces and best of all, chat with users via GPT-2, a natural language processing network by OpenAI.
+Shimmy is a unique discord bot that can do a few neat things such as watching the pixel canvas at http://skelux.net/place.php, sharing your favorite youtube videos, deviantart pieces and best of all, chat with users via GPT-2, a natural language processing neural network by OpenAI.
 
 ## How to set up
 1. Install all the js dependencies from package-lock.json
